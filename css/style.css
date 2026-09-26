@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+img
+{
+ width:100%;   
+}
+.main-title
+{
+    background-color: #085070;
+    color:#fff;
+    font-size:40px;
+    margin: 0;
+}
+.missing-puppy
+{
+    background-color: rgb(7, 155, 174);
+}
+
+.missing-puppy p
+{
+    font-size:3vw;
+
+}
