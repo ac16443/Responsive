@@ -1,0 +1,46 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+
+
+.pink
+{
+    background-color: palevioletred;
+color: cornsilk;
+}
+.green
+{
+    background-color: green;
+    color: wheat;
+}
+.yellow
+{
+    background-color: yellow;
+   color: purple;
+}
+
+.lightblue
+{
+    background-color: lightseagreen;
+   color: wheat;
+}
+
+.violet
+{
+    background-color: violet;
+   color: brown;
+}
+
+.cream
+{
+    background-color:navajowhite;
+   color: purple;
+}
+
+.lightgreen
+{
+    background-color: lawngreen;
+    color: wheat;
+}
